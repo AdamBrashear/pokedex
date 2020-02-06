@@ -18,4 +18,5 @@ struct Pokemon {
 	let attack: Int
 	let description: String
 	let baseExperience: Int
+	let nextEvolution: String
 }

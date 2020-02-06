@@ -17,6 +17,7 @@
 		BF92C1AC23EB7FB9009839D4 /* pokedexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF92C1AB23EB7FB9009839D4 /* pokedexUITests.swift */; };
 		BF92C1BA23EB8CBD009839D4 /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF92C1B923EB8CBD009839D4 /* Pokemon.swift */; };
 		BF92C1BC23EB957D009839D4 /* PokemonStateController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF92C1BB23EB957D009839D4 /* PokemonStateController.swift */; };
+		BF92C1BE23EB9F52009839D4 /* PokemonDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF92C1BD23EB9F52009839D4 /* PokemonDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		BF92C1AD23EB7FB9009839D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BF92C1B923EB8CBD009839D4 /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		BF92C1BB23EB957D009839D4 /* PokemonStateController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonStateController.swift; sourceTree = "<group>"; };
+		BF92C1BD23EB9F52009839D4 /* PokemonDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				BF92C1B923EB8CBD009839D4 /* Pokemon.swift */,
 				BF92C1BB23EB957D009839D4 /* PokemonStateController.swift */,
 				BF92C18F23EB7F92009839D4 /* Main.storyboard */,
+				BF92C1BD23EB9F52009839D4 /* PokemonDetailViewController.swift */,
 				BF92C19223EB7FB8009839D4 /* Assets.xcassets */,
 				BF92C19423EB7FB8009839D4 /* LaunchScreen.storyboard */,
 				BF92C19723EB7FB8009839D4 /* Info.plist */,
@@ -270,6 +273,7 @@
 				BF92C1BA23EB8CBD009839D4 /* Pokemon.swift in Sources */,
 				BF92C18A23EB7F92009839D4 /* AppDelegate.swift in Sources */,
 				BF92C18C23EB7F92009839D4 /* SceneDelegate.swift in Sources */,
+				BF92C1BE23EB9F52009839D4 /* PokemonDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
